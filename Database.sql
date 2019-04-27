@@ -1,6 +1,6 @@
 --
 -- Database name is: 'testing'
---
+-- Below are the tables...
 
 -- --------------------------------------------------------
 
