@@ -1,6 +1,6 @@
 <?php
 
-//delete.php
+// delete.php
 
 if(isset($_POST["id"]))
 {

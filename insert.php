@@ -1,6 +1,6 @@
 <?php
 
-//insert.php
+// insert.php
 
 $connect = new PDO('mysql:host=localhost;dbname=testing', 'root', 'pw');
 

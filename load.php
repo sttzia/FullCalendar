@@ -1,6 +1,6 @@
 <?php
 
-//load.php
+// load.php
 
 $connect = new PDO('mysql:host=localhost;dbname=testing', 'root', 'pw');
 
